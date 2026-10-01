@@ -3,6 +3,19 @@
     <channel>
         <title>MacNotch</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Fri, 02 Oct 2026 03:34:29 +0900</pubDate>
+            <sparkle:version>100600</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>설정 창 다듬기 · 피드백 · 안정성</h3><p><b>새 기능</b></p><li>피드백 — 설정 &gt; 피드백(메뉴 막대 &gt; 피드백 보내기)에서 오류 · 문제 · 제안 보내기, 진단 정보 · 최근 충돌 기록 자동 첨부</li><li>앱 글꼴 Pretendard</li><li>설정 아이콘이 노치 테마를 따라감 (macOS 아이콘 스타일처럼 화이트=기본 · 블랙=다크 · 반투명=클리어)</li><li>노치 테마 &#x27;투명&#x27; → &#x27;반투명&#x27; (Liquid Glass 틴트를 조금 더 진하게)</li><li>모든 설정을 기본값으로 되돌리기</li><p><b>개선</b></p><li>설정 창 — macOS 시스템 설정과 비슷한 크기, 두 열 ↔ 한 열 자동 전환, 왼쪽 정렬로 통일</li><li>한글 어절 단위 줄바꿈, 행간 · 여백 정리</li><li>위젯 목록이 스크롤 없이 모두 보이도록</li><li>처음 설치 기본값 — 로그인 시 실행 켜짐, 권한이 필요한 실험 기능은 꺼짐</li><p><b>버그 수정</b></p><li>macOS 27에서 블루투스 권한을 허용하면 앱이 꺼지고 다시 켜지지 않던 문제 (0.5.1)</li><li>액티비티별 설정 · 위젯 화면에서 목록이 잘리고 설명이 넘치던 문제</li><li>시스템 오디오 녹음 권한 요청 · &#x27;모든 권한 한 번에 요청&#x27;이 반응 없던 문제</li><li>색상 효과 체크박스 이름 누락</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.6.0/MacNotch-0.6.0.zip" length="9359135" type="application/octet-stream" sparkle:edSignature="HVUGAZ5lZrkP/FJ8w+bywnPv4JuOUSlcZ8cXn8lDuIvshC1FPSZqNeTx45LHToro0KioOpAbqh5MoCGJEQV+BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.6.0/MacNotch100600-100500.delta" sparkle:deltaFrom="100500" length="4876742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xhcGpweH2B66I7cDpHOZULuEmzs40jOj4xh04Em6YXpsa/ween1n4Vq8TnH0AEbgKy+EJhCIJy3X+XDfcoqhCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Thu, 01 Oct 2026 20:51:50 +0900</pubDate>
             <sparkle:version>100500</sparkle:version>
@@ -10,7 +23,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>노치 테마 · 부드러운 애니메이션</h3><p><b>새 기능</b></p><li>노치 테마 — 블랙 · 화이트 · 투명 (설정 &gt; 일반)</li><li>애니메이션을 화면 주사율에 맞춤 — 120Hz 화면 120프레임, 60Hz 화면 · 저전력 모드 60프레임</li><li>저전력 모드를 켜고 끄면 &#x27;저전력 모드 켜짐/꺼짐&#x27; 표시 (그때 생기는 밝기 HUD는 숨김)</li><p><b>개선</b></p><li>퀵픽 · Bag · HUD 열고 닫기를 하나의 스프링으로 통일</li><li>볼륨 · 밝기 게이지 흰색, 배터리 숫자 흰색 · 저전력 모드일 때만 노란색</li><li>캘린더(하늘 파랑) · 미리 알림(라벤더) 아이콘 색 변경, 남은 시간은 흰색</li><li>싱크 가사 — 출력 장치 지연(블루투스 · 공간 음향) 자동 보정, 돌비 애트모스 · 공간 음향 표기 정리</li><li>앨범 아트가 없을 때 재생 앱 아이콘이나 잘 보이는 기본 그림</li><li>설정 창 — 항목별 아이콘 색, 창 크기 · 여백 정리, 변경사항은 현재 버전만(이전은 &#x27;이전 버전 · 개발 기록&#x27;)</li><li>미리보기가 설정값을 따라 바뀜, 볼륨 · 밝기 HUD 미리보기를 실제 모양으로</li><p><b>버그 수정</b></p><li>애플 기본 밝기 팝업이 함께 뜨던 문제 (최신 MacBook 밝기 키 이벤트도 가로챔)</li><li>HUD 숫자 100이 두 줄로 꺾이던 문제</li><li>재생 · 일시정지할 때 재생 바가 미끄러지던 문제</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.5.0/MacNotch-0.5.0.zip" length="2933011" type="application/octet-stream" sparkle:edSignature="yN3XLxGw9Jt+kxsZWwENWmuYbALej6KgmCSaUvi/P6B8PUEEuH0qj+OZ40cbz9oJzufvZcbXYto3XIqYoszBCg=="/>
+            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.6.0/MacNotch-0.5.0.zip" length="2933011" type="application/octet-stream" sparkle:edSignature="yN3XLxGw9Jt+kxsZWwENWmuYbALej6KgmCSaUvi/P6B8PUEEuH0qj+OZ40cbz9oJzufvZcbXYto3XIqYoszBCg=="/>
         </item>
     </channel>
 </rss>
