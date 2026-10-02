@@ -3,6 +3,20 @@
     <channel>
         <title>MacNotch</title>
         <item>
+            <title>0.7.2</title>
+            <pubDate>Fri, 02 Oct 2026 13:14:11 +0900</pubDate>
+            <sparkle:version>100702</sparkle:version>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><h3>Bag 미리보기 · 새 미디어 플레이어</h3><p><b>새 기능</b></p><li>설정 창이 열려 있는 동안 Dock에 Dimple 아이콘 표시</li><p><b>개선</b></p><li>Bag · 위젯 설정을 바꾸면 Bag이 열려 바로 확인 — 다른 항목으로 옮기거나 창을 닫으면 닫혀요</li><li>미디어 플레이어 위젯: 앨범 아트를 크게, 재생 앱 아이콘(음악 · Spotify · Chrome 등)은 오른쪽 위, 그 아래 가사 버튼, 재생 바는 조금 아래로</li><li>미디어 플레이어 위젯 너비 최대 16칸</li><li>처음 설치할 때 &#x27;실제 소리에 반응하는 스펙트럼&#x27;이 기본으로 켜져요 — 처음 재생할 때 시스템 오디오 녹음 권한을 물어요</li></ul>]]></description>
+            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.2/Dimple-0.7.2.zip" length="10228078" type="application/octet-stream" sparkle:edSignature="CoyzjRiAl1l/cUcCkhH52hfUJzNrobk09cQwnekDAWubdleE+jFwimxXhlEJapDr5N+mg+WZLvNgEWQsmZ/HAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.2/Dimple100702-100701.delta" sparkle:deltaFrom="100701" length="328634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Njl/OkgZ88EKRPNoqZnwAR1LnN44DpEl+gqKVlG4BJyUlhn1NHp7aClfiEH1TKR0mvQLTvP/X3+lz+KZQf/iAQ=="/>
+                <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.2/Dimple100702-100700.delta" sparkle:deltaFrom="100700" length="458834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OlSLq+4IFL8aOIz3qoN1caVI+YMz2oqVHsoyc7wh+zDyoSbYYg+Eduj/is+GWMPH534bBWmdwgN4AT3IrizZBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.7.1</title>
             <pubDate>Fri, 02 Oct 2026 12:58:16 +0900</pubDate>
             <sparkle:version>100701</sparkle:version>
@@ -10,7 +24,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>설정 가독성 · 메뉴 막대 아이콘 숨기기</h3><p><b>새 기능</b></p><li>일반 설정에 &#x27;메뉴 막대에 Dimple 아이콘 표시&#x27; 옵션 — 숨겨도 노치 우클릭 · ⌘, · 앱 다시 열기로 설정에 들어올 수 있어요</li><p><b>개선</b></p><li>설정의 코랄 색은 스위치 · 체크박스 · 슬라이더에만 — 버튼 · 메뉴 · 탭은 기본색으로 되돌려 글자가 또렷해요</li><li>사이드바와 목록의 선택 표시를 은은한 회색 배경 + 코랄 막대로 변경</li><li>반투명 테마에서 Bag을 열면 배경이 조금 더 불투명해져 내용이 잘 보여요</li><li>처음 설치할 때 기본으로 켜지는 항목 추가 — 곡이 바뀌면 알려 주기, 싱크 가사</li><p><b>버그 수정</b></p><li>업데이트로 받은 경우 Finder · Launchpad에 &#x27;MacNotch&#x27;로 남던 앱 이름을 처음 실행할 때 Dimple로 자동 변경</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.1/Dimple-0.7.1.zip" length="10224246" type="application/octet-stream" sparkle:edSignature="Qffz+yUtQQ12108GukaGn1sdUFy7tIPxXzGQZYLBEbBQFceljdM+a2Zlx1zscUoIIZen/WHB75wMhZ/ER3j4Dg=="/>
+            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.2/Dimple-0.7.1.zip" length="10224246" type="application/octet-stream" sparkle:edSignature="Qffz+yUtQQ12108GukaGn1sdUFy7tIPxXzGQZYLBEbBQFceljdM+a2Zlx1zscUoIIZen/WHB75wMhZ/ER3j4Dg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.1/Dimple100701-100700.delta" sparkle:deltaFrom="100700" length="417874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XIQmtrDihNcuAsvlqa5venbRnbmNUn35Lx50+4btmuj9reF8ZTp6lPQyPLXZ/X+1/uGovlBZpmt02hhraznaCw=="/>
             </sparkle:deltas>
@@ -23,23 +37,10 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<ul><h3>MacNotch는 이제 Dimple이에요</h3><p><b>새 기능</b></p><li>새 이름 Dimple(딤플), 새 앱 아이콘 · 메뉴 막대 아이콘(미소 노치 + 보조개 점)</li><li>브랜드 색 Dimple Coral(#FF6A55) — 설정 컨트롤 · 선택 · 할 일 · 타이머 강조</li><li>Bag이 열려 있어도 볼륨 · 밝기 조절 시 Bag 위쪽에 작은 표시</li><p><b>개선</b></p><li>배터리 · CPU 최적화 — 밝기 감시 1초(키 입력 시만 빠르게), 타이머 묶음 처리, 일시정지 중 스펙트럼 정지, 흐르는 글자 60프레임, 권한 확인은 설정 창이 열려 있을 때만</li><li>앱 안 이름 · 문구를 Dimple로 정리 (앱 파일 이름 Dimple.app)</li><p><b>참고</b></p><li>앱 ID(com.DevSeo.macnotch) · 업데이트 주소 유지 → 설정 · 권한 · 자동 업데이트 그대로</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.1/Dimple-0.7.0.zip" length="10203771" type="application/octet-stream" sparkle:edSignature="jTDYlEBotKxJtQXYn8ONbRpGfTz8GYtFALbSAlwFbOrmMu0rgBkFvU3P30YofgRVzxYXesO+GBQDmwy9ncl5AQ=="/>
+            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.2/Dimple-0.7.0.zip" length="10203771" type="application/octet-stream" sparkle:edSignature="jTDYlEBotKxJtQXYn8ONbRpGfTz8GYtFALbSAlwFbOrmMu0rgBkFvU3P30YofgRVzxYXesO+GBQDmwy9ncl5AQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.0/Dimple100700-100600.delta" sparkle:deltaFrom="100600" length="719594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gQ1kt02hKAeRw1EzsTScj/kPjtzOi25EMp/C/GFZ9ft1d6T4HUkpfQ7BUcC/STtP5cxQhARpzaaEykWfNYqpCA=="/>
                 <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.0/Dimple100700-100500.delta" sparkle:deltaFrom="100500" length="5572314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mFT2rWSTrW7ymd54Ruty4tIScLvVleZnmAM9iuW8Lk97qfc5MuapYCsCjq8Xmjg8ql4z28pWbQ4AAeq0QGHwAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.6.0</title>
-            <pubDate>Fri, 02 Oct 2026 03:34:29 +0900</pubDate>
-            <sparkle:version>100600</sparkle:version>
-            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><h3>설정 창 다듬기 · 피드백 · 안정성</h3><p><b>새 기능</b></p><li>피드백 — 설정 &gt; 피드백(메뉴 막대 &gt; 피드백 보내기)에서 오류 · 문제 · 제안 보내기, 진단 정보 · 최근 충돌 기록 자동 첨부</li><li>앱 글꼴 Pretendard</li><li>설정 아이콘이 노치 테마를 따라감 (macOS 아이콘 스타일처럼 화이트=기본 · 블랙=다크 · 반투명=클리어)</li><li>노치 테마 &#x27;투명&#x27; → &#x27;반투명&#x27; (Liquid Glass 틴트를 조금 더 진하게)</li><li>모든 설정을 기본값으로 되돌리기</li><p><b>개선</b></p><li>설정 창 — macOS 시스템 설정과 비슷한 크기, 두 열 ↔ 한 열 자동 전환, 왼쪽 정렬로 통일</li><li>한글 어절 단위 줄바꿈, 행간 · 여백 정리</li><li>위젯 목록이 스크롤 없이 모두 보이도록</li><li>처음 설치 기본값 — 로그인 시 실행 켜짐, 권한이 필요한 실험 기능은 꺼짐</li><p><b>버그 수정</b></p><li>macOS 27에서 블루투스 권한을 허용하면 앱이 꺼지고 다시 켜지지 않던 문제 (0.5.1)</li><li>액티비티별 설정 · 위젯 화면에서 목록이 잘리고 설명이 넘치던 문제</li><li>시스템 오디오 녹음 권한 요청 · &#x27;모든 권한 한 번에 요청&#x27;이 반응 없던 문제</li><li>색상 효과 체크박스 이름 누락</li></ul>]]></description>
-            <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.7.0/MacNotch-0.6.0.zip" length="9359135" type="application/octet-stream" sparkle:edSignature="HVUGAZ5lZrkP/FJ8w+bywnPv4JuOUSlcZ8cXn8lDuIvshC1FPSZqNeTx45LHToro0KioOpAbqh5MoCGJEQV+BQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Seoiiidal/MacNotch-releases/releases/download/v0.6.0/MacNotch100600-100500.delta" sparkle:deltaFrom="100500" length="4876742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xhcGpweH2B66I7cDpHOZULuEmzs40jOj4xh04Em6YXpsa/ween1n4Vq8TnH0AEbgKy+EJhCIJy3X+XDfcoqhCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
