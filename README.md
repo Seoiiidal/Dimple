@@ -53,13 +53,6 @@ MacBook의 노치는 늘 그 자리에 있지만 아무 일도 하지 않아요.
 
 > 한 번 설치하면 이후 버전은 **자동으로 업데이트**돼요. 설정과 권한도 그대로 이어져요.
 
-## 체험판과 라이선스
-
-- 처음 실행한 때부터 **72시간 동안 모든 기능을 무료로** 써 볼 수 있어요.
-- 체험이 끝나면 노치 기능이 잠시 멈추고, **설정 › 라이선스**에서 키를 넣으면 바로 다시 켜져요.
-- 라이선스 키는 개발자에게 문의해 주세요 → **seoiiidal@gmail.com**
-- 키는 인터넷 없이 Mac 안에서만 확인해요.
-
 ## 개인정보
 
 - 싱크 가사를 켜면 곡 제목 · 아티스트가 [LRCLIB](https://lrclib.net)로, 날씨 위젯은 **대략적인 위치**가 [Open-Meteo](https://open-meteo.com)로 전송돼요.
@@ -93,8 +86,6 @@ Your MacBook's notch is always there, doing nothing. Dimple turns it into a livi
 3. Turn on permissions in Settings › Permissions › **Request All Permissions at Once**.
 
 Later versions update automatically, keeping your settings and permissions.
-
-**Trial & License** — Every feature is free for **72 hours** from first launch. After that, enter a license key in **Settings › License** to keep using Dimple. For a key, contact **seoiiidal@gmail.com**. Keys are verified offline on your Mac.
 
 **Privacy** — With synced lyrics on, song title and artist go to LRCLIB; the weather widget sends an approximate location to Open-Meteo. Audio, notifications, files, events, and clipboard contents never leave your Mac.
 
